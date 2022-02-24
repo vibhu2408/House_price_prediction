@@ -1,6 +1,6 @@
 # House_price_prediction
 
-Predicting hoyse prices using Linear Regression and Gradient Boosting Regressor
+Predicting house prices using Linear Regression and Gradient Boosting Regressor
 
 Tutorial
 
